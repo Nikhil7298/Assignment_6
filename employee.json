@@ -1,0 +1,37 @@
+{
+    "Emp1": {
+        "Name":"Nikhil",
+        "DOB":"07feb1998",
+        "Height":"5feet8inches",
+        "City":"Banglore",
+        "State":"Karnataka"
+    },
+    "Emp2": {
+        "Name":"Parthu",
+        "DOB":"18apr1997",
+        "Height":"5feet7inches",
+        "City":"Hyderabad",
+        "State":"Telangana"
+    },
+    "Emp3": {
+        "Name":"Prerana",
+        "DOB":"14feb1994",
+        "Height":"5feet4inches",
+        "City":"Mumbai",
+        "State":"Maharashtra"
+    },
+    "Emp4": {
+        "Name":"Welson",
+        "DOB":"09may1989",
+        "Height":"5feet7inches",
+        "City":"Chennai",
+        "State":"Tamilnadu"
+    },
+    "Emp5": {
+        "Name":"Vineeth",
+        "DOB":"05mar1990",
+        "Height":"5feet7inches",
+        "City":"Pune",
+        "State":"Maharashtra"
+    }
+}
